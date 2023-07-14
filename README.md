@@ -23,32 +23,35 @@ This is a simple React application that fetches weather details based on the ent
 3. Enter a city name in the input field and click the "Get Weather" button.
 4. The app will fetch and display the weather details for the entered city.
 
-#### Technologies Used
+### Technologies Used
 
 .React
+
 .React Router
+
 .Axios (for API requests)
 
-##### API Used
+### API Used
 
 The app uses the Yahoo Weather API to fetch weather details based on the city name. You can find more information about the API here.
 
-###### Project Structure
+### Project Structure
 
 The project structure is as follows:
 
-. 'src/'
-. 'Components/': Contains reusable components used in the app, such as the Form component for entering the city name.
+. src/
 
-. 'App.js':The main component that handles the routing and fetches the weather details.
+. Components/: Contains reusable components used in the app, such as the Form component for entering the city name.
 
-. 'index.js':The entry point of the application.
+. App.js:The main component that handles the routing and fetches the weather details.
 
-###### Contributing
+. index.js:The entry point of the application.
+
+### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
-###### License
+### License
 
 This project is licensed under the MIT License.
 
